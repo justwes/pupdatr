@@ -49,3 +49,11 @@ Processing by PagesController#home as HTML
 Completed 200 OK in 91ms (Views: 88.0ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2016-11-20 13:53:54 +0000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (1.5ms)
+Completed 200 OK in 530ms (Views: 515.5ms | ActiveRecord: 0.0ms)
+
+
